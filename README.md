@@ -7,15 +7,17 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ## Table of contents
 - [Survey](#Survey)
-- [Lossless Compression](#Lossless-Compression)
-- [Lossy Compression](#Lossy-Compression)
-  - [RNN-style](#RNN-style)
-  - [VAE-style](#VAE-style)
-  - [INR-style](#INR-style)
-  - [Invertible transform style](#Invertible-transform-style)
+- [Lossless Image Compression](#Lossless-Compression)
+- [Near Lossless Image Compression]
+- [Lossy Image Compression](#Lossy-Compression)
+  - Non-linear transform coding
   - [Generative Image compression](#Generative-Image-compression)
 - [Other tasks](#other-tasks)
-<!-- variable rate, adjustable complexity, scalable coding, and so on  -->
+<!-- variable rate, adjustable complexity, scalable coding, light field, stereo image and so on  -->
+<!--   - [RNN-style](#RNN-style)
+  - [VAE-style](#VAE-style)
+  - [INR-style](#INR-style)
+  - [Invertible transform style](#Invertible-transform-style) -->
 
 ## Lossless Compression
 |Models| Paper | First Author | Architecture | Venue | Topic | Project |
