@@ -9,6 +9,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 - [Survey](#Survey)
 - [Lossless Compression](#Lossless-Compression)
 - [Lossy Compression](#Lossy-Compression)
+  - [RNN-style](#RNN-style)
   - [VAE-style](#VAE-style)
   - [INR-style](#INR-style)
   - [Invertible transform style](#Invertible-transform-style)
