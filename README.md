@@ -1,4 +1,4 @@
-# Papers_for_Neural_Image_Compression
+# Papers for Neural Image Compression
 **Purpose:** We aim to provide a summary of neural image coding. More papers will be summarized. 
 
 University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
