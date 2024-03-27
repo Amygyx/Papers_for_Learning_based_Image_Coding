@@ -9,12 +9,14 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
 - [Survey](#Survey)
-- [Lossless Compression](#Lossless Compression)
+- [Lossless Compression](#Lossless-Compression)
 - [Lossy Compression]
--- []
--- [Variable Rate]
+-- [VAE-style]
+-- [INR-style]
+-- [Invertible transform style]
 -- [Generative Image compression]
 - [other tasks]
+% variable rate, adjustable complexity, scalable coding, and so on 
 
 - [Diffusion model for Image Deblurring](#image-deblurring)
 - [Diffusion model for Image Inpainting](#image-inpainting)
