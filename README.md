@@ -1,5 +1,5 @@
 # Papers for Neural Image Compression
-**Purpose:** We aim to provide a summary of neural image commpression. More papers will be summarized. 
+**Purpose:** We aim to provide a summary of neural image compression. More papers will be summarized. 
 
 University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
 
@@ -10,7 +10,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 - [Lossless Image Compression](#Lossless-Compression)
 - [Near Lossless Image Compression]
 - [Lossy Image Compression](#Lossy-Compression)
-  - Non-linear transform coding
+  - [Non-linear transform coding]
   - [Generative Image compression](#Generative-Image-compression)
 - [Other tasks](#other-tasks)
 <!-- variable rate, adjustable complexity, scalable coding, light field, stereo image and so on  -->
