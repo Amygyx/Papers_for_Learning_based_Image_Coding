@@ -7,18 +7,19 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ## Table of contents
 - [Survey](#Survey)
-- [Lossless Image Compression](#Lossless-Image-Compression)
-- [Near Lossless Image Compression](#Near-Lossless-Image-Compressio)
-- [Lossy Image Compression](#Lossy-Image-Compression)
-  - [Nonlinear Transform Coding](#Nonlinear-Transform-Coding)
-  - [Generative Image compression](#Generative-Image-compression)
-- [Other tasks](#Other-Tasks)
+- [Lossless Image Compression](#lossless-image-compression)
+- [Near Lossless Image Compression](#near-lossless-image-compressio)
+- [Lossy Image Compression](#lossy-image-compression)
+  - [Nonlinear Transform Coding](#nonlinear-transform-coding)
+  - [Generative Image compression](#generative-image-compression)
+- [Other tasks](#other-tasks)
 <!-- variable rate, adjustable complexity, scalable coding, light field, stereo image and so on  -->
 <!--   - [RNN-style](#RNN-style)
   - [VAE-style](#VAE-style)
   - [INR-style](#INR-style)
   - [Invertible transform style](#Invertible-transform-style) -->
 
-## Lossless Compression
-|Models| Paper | First Author | Architecture | Venue | Topic | Project |
-| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+## Lossless Image Compression
+|Models| Paper | First Author | Venue | Project |
+| :-- | :---: | :--: | :--:| :--: |
+|L3C| [Practical full resolution learned lossless image compression](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mentzer_Practical_Full_Resolution_Learned_Lossless_Image_Compression_CVPR_2019_paper.pdf) | Fabian Mentzer | CVPR2019 | [![Stars](https://img.shields.io/github/stars/fab-jul/L3C-PyTorch.svg?style=social&label=Star)](https://github.com/fab-jul/L3C-PyTorch) |
