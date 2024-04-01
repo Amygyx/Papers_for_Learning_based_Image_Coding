@@ -33,6 +33,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ## Near-Lossless Image Compression
 <!-- TODO: xiaoshuai  -->
+|Models| Paper | First Author | Venue | Project |
+
 
 ## Lossy Image Compression
 ### Nonlinear Transform Coding
