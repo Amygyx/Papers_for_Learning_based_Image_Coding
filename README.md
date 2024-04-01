@@ -11,6 +11,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 - [Near-Lossless Image Compression](#near-lossless-image-compressio)
 - [Lossy Image Compression](#lossy-image-compression)
   - [Nonlinear Transform Coding](#nonlinear-transform-coding)
+    - [2016](#2016)
   - [Generative Image compression](#generative-image-compression)
 - [Other tasks](#other-tasks)
 <!-- variable rate, adjustable complexity, scalable coding, light field, stereo image and so on  -->
@@ -27,3 +28,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ## Near-Lossless Image Compression
 <!-- TODO: xiaoshuai  -->
+
+## Lossy Image Compression
+### Generative Image compression
