@@ -60,6 +60,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 <!-- TODO: Ruixin -->
 |Models| Paper | First Author | Architecture | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: | :--: |
+| CDC | [Lossy Image Compression with Conditional Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/ccf6d8b4a1fe9d9c8192f00c713872ea-Paper-Conference.pdf) | Ruihan Yang | Diffusion Model | NeurIPS2023 | [![Stars](https://img.shields.io/github/stars/buggyyang/CDC_compression.svg?style=social&label=Star)](https://github.com/buggyyang/CDC_compression) |
 | HiFiC | [High-Fidelity Generative Image Compression](https://proceedings.neurips.cc/paper_files/paper/2020/file/8a50bae297807da9e97722a0b3fd8f27-Paper.pdf) | Fabian Mentzer | GAN | NeurIPS2020 | [![Stars](https://img.shields.io/github/stars/tensorflow/compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression/tree/master/models/hific) |
 | -- | [Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff](https://proceedings.mlr.press/v97/blau19a/blau19a.pdf) | Yochai Blau | -- | ICML2019 |  |
 
