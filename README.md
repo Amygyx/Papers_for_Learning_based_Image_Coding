@@ -41,10 +41,10 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 #### 2015
 |Models| Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--:| :--: |
-| -- | [Variable Rate Image Compression with Recurrent Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mentzer_Practical_Full_Resolution_Learned_Lossless_Image_Compression_CVPR_2019_paper.pdf) | Fabian Mentzer | CVPR2019 | [![Stars](https://img.shields.io/github/stars/fab-jul/L3C-PyTorch.svg?style=social&label=Star)](https://github.com/fab-jul/L3C-PyTorch) |
+| -- | [Variable Rate Image Compression with Recurrent Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mentzer_Practical_Full_Resolution_Learned_Lossless_Image_Compression_CVPR_2019_paper.pdf) | Fabian Mentzer | CVPR2019 |  |
 
 ### Generative Image compression
 |Models| Paper | First Author | Architecture | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: | :--: |
-| HiFiC | [High-Fidelity Generative Image Compression](https://proceedings.neurips.cc/paper_files/paper/2020/file/8a50bae297807da9e97722a0b3fd8f27-Paper.pdf) | Fabian Mentzer | -- | NeuriPS2020 | [![Stars](https://img.shields.io/github/stars/tensorflow/compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression/tree/master/models/hific) |
+| HiFiC | [High-Fidelity Generative Image Compression](https://proceedings.neurips.cc/paper_files/paper/2020/file/8a50bae297807da9e97722a0b3fd8f27-Paper.pdf) | Fabian Mentzer | GAN | NeuriPS2020 | [![Stars](https://img.shields.io/github/stars/tensorflow/compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression/tree/master/models/hific) |
 | -- | [Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff](https://proceedings.mlr.press/v97/blau19a/blau19a.pdf) | Yochai Blau | -- | ICML2019 |  |
