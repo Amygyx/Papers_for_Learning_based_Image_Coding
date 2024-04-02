@@ -38,6 +38,8 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | :--: | :---: | :--: | :--: | :--: | :--: |
 | -- | [Ultra High Fidelity Deep Image Decompression With l∞-Constrained Compression](https://ieeexplore.ieee.org/document/9277919) | Xi Zhang | CNN | TIP2020 | |
 | -- | [Learning Scalable l∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Learning_Scalable_lY-Constrained_Near-Lossless_Image_Compression_via_Joint_Lossy_Image_CVPR_2021_paper.pdf) | Yuanchao Bai | VAE | CVPR2021 |  [![Stars](https://img.shields.io/github/stars/BYchao100/Scalable-Near-lossless-Image-Compression.svg?style=social&label=Star)](https://github.com/BYchao100/Scalable-Near-lossless-Image-Compression) |
+| DLPR | [Deep Lossy Plus Residual Coding for Lossless and Near-lossless Image Compression](https://ieeexplore.ieee.org/document/10378746) | Yuanchao Bai | VAE | TPAMI2023 |  [![Stars](https://img.shields.io/github/stars/BYchao100/Deep-Lossy-Plus-Residual-Coding.svg?style=social&label=Star)](https://github.com/BYchao100/Deep-Lossy-Plus-Residual-Coding) |
+
 
 
 
