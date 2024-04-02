@@ -35,6 +35,10 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Near-Lossless Image Compression
 <!-- TODO: xiaoshuai  -->
 |Models| Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--:| :--: |
+| -- | [Learning Scalable `∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Learning_Scalable_lY-Constrained_Near-Lossless_Image_Compression_via_Joint_Lossy_Image_CVPR_2021_paper.pdf) | Yuanchao Bai | CVPR2021 |  |
+
+
 
 
 ## Lossy Image Compression
