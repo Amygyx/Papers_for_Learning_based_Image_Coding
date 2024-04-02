@@ -36,7 +36,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 <!-- TODO: xiaoshuai  -->
 |Models| Paper | First Author | Architecture | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: | :--: |
-| -- | [Learning Scalable `∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Learning_Scalable_lY-Constrained_Near-Lossless_Image_Compression_via_Joint_Lossy_Image_CVPR_2021_paper.pdf) | Yuanchao Bai | VAE | CVPR2021 |  [![Stars]([https://img.shields.io/github/stars/tensorflow/compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression/tree/master/models/hific](https://github.com/BYchao100/Scalable-Near-lossless-Image-Compression)) |
+| -- | [Learning Scalable `∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Learning_Scalable_lY-Constrained_Near-Lossless_Image_Compression_via_Joint_Lossy_Image_CVPR_2021_paper.pdf) | Yuanchao Bai | VAE | CVPR2021 |  [![Stars]([https://img.shields.io/github/stars/BYchao100/Scalable-Near-lossless-Image-Compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression/tree/master/models/hific](https://github.com/BYchao100/Scalable-Near-lossless-Image-Compression)) |
 
 
 
