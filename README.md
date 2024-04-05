@@ -11,7 +11,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 - [Near-Lossless Image Compression](#near-lossless-image-compressio)
 - [Lossy Image Compression](#lossy-image-compression)
   - [Nonlinear Transform Coding](#nonlinear-transform-coding)
-    - [2015](#2015)
+    <!-- - [2015](#2015) -->
   - [Generative Image compression](#generative-image-compression)
 - [Other tasks](#other-tasks)
 <!-- variable rate, adjustable complexity, scalable coding, light field, stereo image and so on  -->
@@ -51,7 +51,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ## Lossy Image Compression
 ### Nonlinear Transform Coding
-#### 2015
 |Models| Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--:| :--: |
 | -- | [Variable Rate Image Compression with Recurrent Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mentzer_Practical_Full_Resolution_Learned_Lossless_Image_Compression_CVPR_2019_paper.pdf) | Fabian Mentzer | CVPR2019 |  |
