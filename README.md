@@ -51,9 +51,9 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 ## Lossy Image Compression
 ### Nonlinear Transform Coding
-|Models| Paper | First Author | Venue | Project |
-| :--: | :---: | :--: | :--:| :--: |
-| -- | [Variable Rate Image Compression with Recurrent Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mentzer_Practical_Full_Resolution_Learned_Lossless_Image_Compression_CVPR_2019_paper.pdf) | Fabian Mentzer | CVPR2019 |  |
+|Models| Paper | First Author | Architecture | Venue | Project |
+| :--: | :---: | :--: | :--:| :--: | :--: |
+| -- | [End-to-end Optimized Image Compression](https://arxiv.org/pdf/1611.01704.pdf) | Johannes Ballé | AE | ICLR2017 | [![Stars](https://img.shields.io/github/stars/tensorflow/compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression) |
 
 ### Generative Image compression
 <!-- TODO: Ruixin -->
