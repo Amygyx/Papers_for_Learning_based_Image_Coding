@@ -67,6 +67,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | SHVQ | [Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations](https://proceedings.neurips.cc/paper_files/paper/2017/file/86b122d4358357d834a87ce618a55de0-Paper.pdf) | Eirikur Agustsson | AE | NIPS2017 |  |
 | -- | [Lossy Image Compression with Compressive Autoencoders](https://openreview.net/pdf?id=rJiNwv9gg) | Lucas Theis | AE | ICLR2017 |  |
 | -- | [End-to-end Optimized Image Compression](https://arxiv.org/pdf/1611.01704.pdf) | Johannes Ballé | AE | ICLR2017 | [![Stars](https://img.shields.io/github/stars/tensorflow/compression.svg?style=social&label=Star)](https://github.com/tensorflow/compression) |
+| -- | [Few-Shot Domain Adaptation for Learned Image Compression](https://arxiv.org/pdf/2409.11111) | Tianyu Zhang | AE | Arxiv2024 |  |
 
 ### Generative Image compression
 <!-- TODO: Ruixin -->
