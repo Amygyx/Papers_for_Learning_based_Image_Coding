@@ -8,7 +8,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ## Table of contents
 - [Survey & Benchmark](#survey--benchmark)
 - [Lossless Image Compression](#lossless-image-compression)
-- [Near-Lossless Image Compression](#near-lossless-image-compressio)
+- [Near-Lossless Image Compression](#near-lossless-image-compression)
 - [Lossy Image Compression](#lossy-image-compression)
   - [Nonlinear Transform Coding](#nonlinear-transform-coding)
     <!-- - [2015](#2015) -->
@@ -85,3 +85,14 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | CS | [A multi-level privacy-preserving scheme for extracting traffic images](https://www.sciencedirect.com/science/article/pii/S0165168424000641) | Xiaofei He | Signal Processing, 2024 |
 | DNA | [A novel image compression and encryption scheme based on conservative chaotic system and DNA method](https://www.sciencedirect.com/science/article/pii/S0960077923003934?via%3Dihub) | Xin Wu | Chaos, Solitons and Fractals, 2023 |
 
+## Uncategorized Papers
+| Models | Paper | First Author | Venue | Project |
+| :--: | :---: | :--: | :--: | :--: |
+|  | [Approximately Invertible Neural Network for Learned Image Compression](https://arxiv.org/pdf/2408.17073) | Yanbo Gao | arXiv 2024.08 |  |
+|  | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo* , Lin Sui* | ECCV 2024 |  |
+|  | [BaSIC: BayesNet Structure Learning for Computational Scalable Neural Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03640.pdf) | Yufeng Zhang | ECCV 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/worldlife123/cbench_BaSIC)](https://github.com/worldlife123/cbench_BaSIC) |
+|  | [Few-Shot Domain Adaptation for Learned Image Compression](https://arxiv.org/pdf/2409.11111) | Tianyu Zhang | arXiv 2024.09 |  |
+|  | [Window-based Channel Attention for Wavelet-enhanced Learned Image Compression](https://arxiv.org/pdf/2409.14090) |  | Heng Xu | arXiv 2024.09 |
+|  | [Diffusion-based Extreme Image Compression with Compressed Feature Initialization](https://arxiv.org/pdf/2410.02640) | Zhiyuan Li | arXiv 2024.10 |  |
+|  | [Causal Context Adjustment Loss for Learned Image Compression](https://arxiv.org/pdf/2410.04847) | Minghao Han | NeurIPS 2024 |  |
+|  | [Fast Feedforward 3D Gaussian Splatting Compression](https://arxiv.org/pdf/2410.08017) | Yihang Chen | arXiv 2024.10 |  |
