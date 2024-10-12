@@ -96,3 +96,16 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Diffusion-based Extreme Image Compression with Compressed Feature Initialization](https://arxiv.org/pdf/2410.02640) | Zhiyuan Li | arXiv 2024.10 |  |
 |  | [Causal Context Adjustment Loss for Learned Image Compression](https://arxiv.org/pdf/2410.04847) | Minghao Han | NeurIPS 2024 |  |
 |  | [Fast Feedforward 3D Gaussian Splatting Compression](https://arxiv.org/pdf/2410.08017) | Yihang Chen | arXiv 2024.10 |  |
+|  | [DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding](https://arxiv.org/pdf/2408.12150) | Jooyoung Lee | arXiv 2024.08 |  |
+|  | [Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs](https://arxiv.org/pdf/2408.08575) | Jinming Liu | arXiv 2024.08 |  |
+|  | [Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression](https://arxiv.org/pdf/2408.03842) | Hamidreza Soltani | 2024.08 |  |
+|  | [Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01341.pdf) | Zhening Liu | ECCV 2024 |  |
+|  | [Rate-Distortion-Cognition Controllable Versatile Neural Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07338.pdf) | Jinming Liu | ECCV 2024 |  |
+|  | [Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06823.pdf) | Han Li | ECCV 2024 |  |
+|  | [Rethinking Learned Image Compression: Context is All You Need](https://arxiv.org/pdf/2407.11590) | Jixiang Luo | arXiv 2024.07 |  |
+|  | [High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion](https://arxiv.org/pdf/2407.12538) | Juan Song | arXiv 2024.07 |  |
+|  | [High Efficiency Image Compression for Large Visual-Language Models](https://arxiv.org/pdf/2407.17060) | Binzhe Li | arXiv 2024.07 |  |
+|  | [WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06635.pdf) | Haisheng Fu | ECCV 2024 |  |
+|  | [Learned HDR Image Compression for Perceptually Optimal Storage and Display](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06526.pdf) | Peibei Cao | ECCV 2024 |  |
+|  | [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | Chia-Hao Kao | arXiv 2024.07 |  |
+|  | [3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](https://arxiv.org/pdf/2407.09510) | Milena T. Bagdasarian | arXiv 2024.07 |  |
