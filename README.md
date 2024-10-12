@@ -92,7 +92,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo* , Lin Sui* | ECCV 2024 |  |
 |  | [BaSIC: BayesNet Structure Learning for Computational Scalable Neural Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03640.pdf) | Yufeng Zhang | ECCV 2024 | [![GitHub Repo stars](https://img.shields.io/github/stars/worldlife123/cbench_BaSIC)](https://github.com/worldlife123/cbench_BaSIC) |
 |  | [Few-Shot Domain Adaptation for Learned Image Compression](https://arxiv.org/pdf/2409.11111) | Tianyu Zhang | arXiv 2024.09 |  |
-|  | [Window-based Channel Attention for Wavelet-enhanced Learned Image Compression](https://arxiv.org/pdf/2409.14090) |  | Heng Xu | arXiv 2024.09 |
+|  | [Window-based Channel Attention for Wavelet-enhanced Learned Image Compression](https://arxiv.org/pdf/2409.14090) | Heng Xu | arXiv 2024.09 |  |
 |  | [Diffusion-based Extreme Image Compression with Compressed Feature Initialization](https://arxiv.org/pdf/2410.02640) | Zhiyuan Li | arXiv 2024.10 |  |
 |  | [Causal Context Adjustment Loss for Learned Image Compression](https://arxiv.org/pdf/2410.04847) | Minghao Han | NeurIPS 2024 |  |
 |  | [Fast Feedforward 3D Gaussian Splatting Compression](https://arxiv.org/pdf/2410.08017) | Yihang Chen | arXiv 2024.10 |  |
