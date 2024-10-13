@@ -31,7 +31,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 | [A comprehensive survey on image encryption: Taxonomy, challenges, and future directions](https://www.sciencedirect.com/science/article/pii/S0960077923012638?via%3Dihub) | Morteza SaberiKamarposhti | Chaos, Solitons and Fractals, 2024 |
 
 ## Lossless Image Compression
-<!-- TODO: Yixin -->
 |Models| Paper | First Author | Venue | Project |
 | :--: | :---: | :--: | :--:| :--: |
 |LC-FDNet| [LC-FDNet: Learned Lossless Image Compression With Frequency Decomposition Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Rhee_LC-FDNet_Learned_Lossless_Image_Compression_With_Frequency_Decomposition_Network_CVPR_2022_paper.pdf) | Hochang Rhee | CVPR2022 | [![Stars](https://img.shields.io/github/stars/myideaisgood/LC-FDNet.svg?style=social&label=Star)](https://github.com/myideaisgood/LC-FDNet) |
@@ -46,7 +45,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 
 ## Near-Lossless Image Compression
-<!-- TODO: xiaoshuai  -->
 |Models| Paper | First Author | Architecture | Venue | Project |
 | :--: | :---: | :--: | :--: | :--: | :--: |
 | -- | [Ultra High Fidelity Deep Image Decompression With l∞-Constrained Compression](https://ieeexplore.ieee.org/document/9277919) | Xi Zhang | CNN | TIP2020 | |
@@ -109,3 +107,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Learned HDR Image Compression for Perceptually Optimal Storage and Display](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06526.pdf) | Peibei Cao | ECCV 2024 |  |
 |  | [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | Chia-Hao Kao | arXiv 2024.07 |  |
 |  | [3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](https://arxiv.org/pdf/2407.09510) | Milena T. Bagdasarian | arXiv 2024.07 |  |
+|  | [WHICH TASKS SHOULD BE COMPRESSED TOGETHER? A CAUSAL DISCOVERY APPROACH FOR EFFICIENT MULTI-TASK REPRESENTATION COMPRESSION] |  | ICLR 2025 Conference Submission |  |
+|  | [Large Language Model for Lossless Image Compression with Visual Prompts] |  | ICLR 2025 Conference Submission |  |
+|  | [TEST-TIME ADAPTATION FOR IMAGE COMPRESSION WITH DISTRIBUTION REGULARIZATION] |  | ICLR 2025 Conference Submission |  |
