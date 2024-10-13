@@ -107,6 +107,6 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 |  | [Learned HDR Image Compression for Perceptually Optimal Storage and Display](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06526.pdf) | Peibei Cao | ECCV 2024 |  |
 |  | [ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | Chia-Hao Kao | arXiv 2024.07 |  |
 |  | [3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](https://arxiv.org/pdf/2407.09510) | Milena T. Bagdasarian | arXiv 2024.07 |  |
-|  | [WHICH TASKS SHOULD BE COMPRESSED TOGETHER? A CAUSAL DISCOVERY APPROACH FOR EFFICIENT MULTI-TASK REPRESENTATION COMPRESSION] |  | ICLR 2025 Conference Submission |  |
-|  | [Large Language Model for Lossless Image Compression with Visual Prompts] |  | ICLR 2025 Conference Submission |  |
-|  | [TEST-TIME ADAPTATION FOR IMAGE COMPRESSION WITH DISTRIBUTION REGULARIZATION] |  | ICLR 2025 Conference Submission |  |
+|  | [WHICH TASKS SHOULD BE COMPRESSED TOGETHER? A CAUSAL DISCOVERY APPROACH FOR EFFICIENT MULTI-TASK REPRESENTATION COMPRESSION]((https://openreview.net/forum?id=x33vSZUg0A)) |  | ICLR 2025 Conference Submission |  |
+|  | [Large Language Model for Lossless Image Compression with Visual Prompts](https://openreview.net/forum?id=dcG17rjJF9) |  | ICLR 2025 Conference Submission |  |
+|  | [TEST-TIME ADAPTATION FOR IMAGE COMPRESSION WITH DISTRIBUTION REGULARIZATION](https://openreview.net/forum?id=bsnRUkVn63) |  | ICLR 2025 Conference Submission |  |
